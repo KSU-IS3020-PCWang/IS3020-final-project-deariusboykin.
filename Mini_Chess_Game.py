@@ -2,11 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
-
+- Student name: DeArius Boykin
+- GitHub username: deariusboykin
+- Project title: Mini Chess Game
+- Application purpose: Python-based chess learning application created for beginners who want to learn the game in a simple and easy way. It helps new players understand the basic rules, how each chess piece moves, and simple strategies, making it easier to build confidence and enjoy learning chess.
 ## How to Run the Application
 
 Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.
